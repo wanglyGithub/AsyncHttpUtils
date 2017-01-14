@@ -1,7 +1,7 @@
 # AsyncHttpUtils
 AsyncHttp_Client
 先看简单的效果
-![]( 介绍)
+![](https://github.com/wanglyGithub/AsyncHttpUtils/blob/master/app/src/main/res/preview/test.gif)
 
 ## 概要 ##
 
@@ -14,4 +14,4 @@ AsyncHttp_Client
 
 ## 层次结构 ##
 
-  ![]()
+  ![](https://github.com/wanglyGithub/AsyncHttpUtils/blob/master/app/src/main/res/preview/cengci.png)
