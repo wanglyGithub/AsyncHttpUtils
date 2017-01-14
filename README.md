@@ -1,6 +1,7 @@
 # AsyncHttpUtils
 AsyncHttp_Client
 先看简单的效果
+
 ![](https://github.com/wanglyGithub/AsyncHttpUtils/blob/master/app/src/main/res/preview/test.gif)
 
 ## 概要 ##
