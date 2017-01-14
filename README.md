@@ -13,6 +13,7 @@ AsyncHttp_Client
 - 统一的异常管理
 - 虽然说 android-async-http 这个网络请求库，本人已经不再使用了，但是可以学习当中
 的设计思想和编码规范。为此做出封装。
+- 针对这个框架的思想，自己做的请求框架，可以参考了解。地址：https://github.com/wanglyGithub/AsynHttpClient
 
 ## 层次结构 ##
 
