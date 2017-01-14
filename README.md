@@ -1,6 +1,6 @@
 # AsyncHttpUtils
 AsyncHttp_Client
-先看简单的效果
+先看简单的效果，并没有对它们进行下载进度、上传进度的直观上的感受，开发者可以自己设置并添加
 
 ![](https://github.com/wanglyGithub/AsyncHttpUtils/blob/master/app/src/main/res/preview/test.gif)
 
@@ -10,6 +10,7 @@ AsyncHttp_Client
 
 ### 介绍 ###
 - 本示例Demo 封装了get/post（文件上传）等等····
+- 统一的异常管理
 - 虽然说 android-async-http 这个网络请求库，本人已经不再使用了，但是可以学习当中
 的设计思想和编码规范。为此做出封装。
 
