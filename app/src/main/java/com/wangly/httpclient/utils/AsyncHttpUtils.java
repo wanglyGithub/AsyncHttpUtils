@@ -119,7 +119,7 @@ public class AsyncHttpUtils {
                             }
                         } catch (JsonSyntaxException e) {
                             e.printStackTrace();
-                            ApiExceptionTest.getApiExceptionMessage(e.getCause());
+                            ApiException.getApiExceptionMessage(e.getCause());
                         }
 
                     }
@@ -143,7 +143,7 @@ public class AsyncHttpUtils {
 
     public void doFailed(ResultCallBack callBack, int errorCode, Throwable throwable) {
         if (callBack != null) {
-            callBack.Failure(errorCode, ApiExceptionTest.getApiExceptionMessage(throwable));
+            callBack.Failure(errorCode, ApiException.getApiExceptionMessage(throwable));
         }
     }
 
